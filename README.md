@@ -1,5 +1,10 @@
 # Rice Source Driver for golang-migrate/migrate
 
+## Installation
+```bash
+go get github.com/atrox/go-migrate-rice
+```
+
 ## Example
 ```golang
 import (
